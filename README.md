@@ -1,5 +1,10 @@
-# Vue 3 + TypeScript + Vite
+# Vue 3 + TypeScript + Vite + Tailwind CSS
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+<img width="1705" height="1038" alt="image" src="https://github.com/user-attachments/assets/84a32d5a-d4fc-454d-a46c-552bbede4c31" />
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+### Quick Demo
+
+https://github.com/user-attachments/assets/756aa23c-201d-439c-bed5-e2180580b595
+
+### Production
+https://golfnow-clone-golf-t-6pww.bolt.host/
